@@ -1,0 +1,45 @@
+# 中国购物+支付域名规则 (Loon DOMAIN-SUFFIX, 2026版)
+# 淘宝/天猫/京东/拼多多/抖音/唯品会 + 支付宝/微信支付 [web:78][web:92]
+
+# ===== 淘宝/天cat =====
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,tmall.com
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,alibaba.com
+DOMAIN-SUFFIX,taobaocdn.com
+
+# ===== 京东 =====
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,jd.hk
+DOMAIN-SUFFIX,jdpay.com
+DOMAIN-SUFFIX,jdcloud.com
+
+# ===== 拼多多 =====
+DOMAIN-SUFFIX,pinduoduo.com
+DOMAIN-SUFFIX,pdd.com
+
+# ===== 抖音/快手小店 =====
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,iesdouyin.com
+DOMAIN-SUFFIX,kuaishou.com
+
+# ===== 唯品会/苏宁 =====
+DOMAIN-SUFFIX,vip.com
+DOMAIN-SUFFIX,suning.com
+
+# ===== 支付接口 =====
+# 支付宝 (购物通用)
+DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,alipayobjects.com
+DOMAIN-SUFFIX,m.alipay.com
+
+# 微信支付 (购物/扫码通用)
+DOMAIN-SUFFIX,weixin.qq.com
+DOMAIN-SUFFIX,wx.tenpay.com
+DOMAIN-SUFFIX,pay.weixin.qq.com
+DOMAIN-SUFFIX,api.mch.weixin.qq.com
+
+# 京东/拼多多支付
+DOMAIN-SUFFIX,jdpay.com
+DOMAIN-SUFFIX,pddpay.com
