@@ -85,6 +85,15 @@ DOMAIN-SUFFIX,zyh.com.cn  # 中银国际
 DOMAIN-SUFFIX,cfsc.com.cn  # 财通
 DOMAIN-SUFFIX,cmbcsec.com  # 民生
 
+# 中国财经平台 (同花顺/东方财富/雪球)
+DOMAIN-SUFFIX,10jqka.com.cn     # 同花顺
+DOMAIN-SUFFIX,ths.cn
+DOMAIN-SUFFIX,stock.eastmoney.com  # 东方财富
+DOMAIN-SUFFIX,eastmoney.com
+DOMAIN-SUFFIX,xueqiu.com         # 雪球
+DOMAIN-SUFFIX,wind.com.cn        # 万得
+
+
 # 中国视频平台域名规则 (Loon DOMAIN-SUFFIX, 2026版)
 # Bilibili/腾讯/爱奇艺/优酷/芒果/快手/抖音等，必须直连 [web:6][web:97]
 
