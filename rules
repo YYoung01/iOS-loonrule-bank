@@ -1,0 +1,86 @@
+# 中国银行&券商域名规则 (2026 全面版，Loon DOMAIN-SUFFIX)
+# 银行：21家系统重要+城商行；券商：头部20+ [web:39][web:54]
+
+# ===== 银行 (系统重要性+主要商业银行) =====
+# 四大行 + 邮储
+DOMAIN-SUFFIX,icbc.com.cn
+DOMAIN-SUFFIX,icbc-ltd.com
+DOMAIN-SUFFIX,ccb.com
+DOMAIN-SUFFIX,ccb.com.cn
+DOMAIN-SUFFIX,bank-of-china.com
+DOMAIN-SUFFIX,boc.cn
+DOMAIN-SUFFIX,boc.com.cn
+DOMAIN-SUFFIX,abchina.com
+DOMAIN-SUFFIX,psbc.com
+
+# 股份制银行
+DOMAIN-SUFFIX,bocom.com.cn
+DOMAIN-SUFFIX,cmbchina.com
+DOMAIN-SUFFIX,cmbimg.com
+DOMAIN-SUFFIX,pab.com.cn  # 平安银行
+DOMAIN-SUFFIX,spdb.com.cn
+DOMAIN-SUFFIX,citicbank.com
+DOMAIN-SUFFIX,cebbank.com
+DOMAIN-SUFFIX,cib.com.cn
+DOMAIN-SUFFIX,hxb.com.cn
+DOMAIN-SUFFIX,evergrowingbank.com  # 永成长城
+DOMAIN-SUFFIX,czbank.com  # 浙商银行
+
+# 城商行&农商行
+DOMAIN-SUFFIX,bankofshanghai.com
+DOMAIN-SUFFIX,bankofbeijing.com.cn
+DOMAIN-SUFFIX,nbcb.com.cn
+DOMAIN-SUFFIX,njcb.com.cn
+DOMAIN-SUFFIX,jsbank.com.cn
+DOMAIN-SUFFIX,bocjsb.com
+DOMAIN-SUFFIX,cgbchina.com.cn
+DOMAIN-SUFFIX,bochk.com  # 重庆银行等
+DOMAIN-SUFFIX,bankofcq.com
+
+# ===== 券商 (头部&知名) =====
+# 中信证券
+DOMAIN-SUFFIX,cs.ecitic.com
+DOMAIN-SUFFIX,citics.com.cn
+
+# 海通证券
+DOMAIN-SUFFIX,htsec.com
+DOMAIN-SUFFIX,haotouzi.com
+
+# 国泰君安
+DOMAIN-SUFFIX,gtjaqh.com.cn
+DOMAIN-SUFFIX,gtja.com
+
+# 华泰证券
+DOMAIN-SUFFIX,htsc.com.cn
+
+# 广发证券
+DOMAIN-SUFFIX,gf.com.cn
+DOMAIN-SUFFIX,gfsec.com
+
+# 华宝证券 (新增)
+DOMAIN-SUFFIX,cnhbstock.com
+DOMAIN-SUFFIX,fof.cnhbstock.com
+
+# 申万宏源
+DOMAIN-SUFFIX,swjy.com.cn
+
+# 中金公司
+DOMAIN-SUFFIX,cicc.com
+
+# 东方证券
+DOMAIN-SUFFIX,eastmoney.com
+DOMAIN-SUFFIX,emxy.cn
+
+# 招商证券
+DOMAIN-SUFFIX,cmschina.com
+
+# 中信建投
+DOMAIN-SUFFIX,cjsec.com.cn
+
+# 其他知名券商
+DOMAIN-SUFFIX,hfsec.com  # 华福
+DOMAIN-SUFFIX,esscce.com  # 东方
+DOMAIN-SUFFIX,sywgqh.com.cn  # 西南
+DOMAIN-SUFFIX,zyh.com.cn  # 中银国际
+DOMAIN-SUFFIX,cfsc.com.cn  # 财通
+DOMAIN-SUFFIX,cmbcsec.com  # 民生
