@@ -185,3 +185,60 @@ DOMAIN-SUFFIX,yys.ysr.com
 ## 国服通用CDN
 DOMAIN-SUFFIX,hnldy.cn
 DOMAIN-SUFFIX,cdndex.com
+
+# 中国社交平台域名规则 (Loon DOMAIN-SUFFIX，无广告域名)
+# 微信/微博/抖音/小红书/B站/知乎/豆瓣/酷安/NGA等 [web:37][web:145]
+
+# ===== 微信/企业微信 =====
+DOMAIN-SUFFIX,wx.qq.com
+DOMAIN-SUFFIX,weixin.qq.com
+DOMAIN-SUFFIX,mp.weixin.qq.com
+DOMAIN-SUFFIX,developers.weixin.qq.com
+
+# ===== 微博 =====
+DOMAIN-SUFFIX,weibo.com
+DOMAIN-SUFFIX,weibocdn.com
+DOMAIN-SUFFIX,m.weibo.cn
+
+# ===== 抖音/今日头条 =====
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,ixigua.com
+DOMAIN-SUFFIX,ttwstatic.com
+
+# ===== 小红书 =====
+DOMAIN-SUFFIX,xiaohongshu.com
+DOMAIN-SUFFIX,xiaohongshuimgr.com
+
+# ===== Bilibili =====
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,biliapi.com
+DOMAIN-SUFFIX,bilivideo.com
+
+# ===== 知乎 =====
+DOMAIN-SUFFIX,zhihu.com
+
+# ===== 豆瓣 =====
+DOMAIN-SUFFIX,douban.com
+DOMAIN-SUFFIX,doubanio.com
+
+# ===== 酷安/应用汇 =====
+DOMAIN-SUFFIX,coolapk.com
+
+# ===== NGA玩家社区 =====
+DOMAIN-SUFFIX,nga.cn
+DOMAIN-SUFFIX,bsd.naga.cn
+
+# ===== 贴吧/百度贴吧 =====
+DOMAIN-SUFFIX,tieba.baidu.com
+
+# ===== QQ/空间 =====
+DOMAIN-SUFFIX,qzone.qq.com
+DOMAIN-SUFFIX,qun.qq.com
+
+# ===== 快手 =====
+DOMAIN-SUFFIX,kuaishou.com
+
+# ===== 其他 (即刻/花瓣/简书) =====
+DOMAIN-SUFFIX,jike.app
+DOMAIN-SUFFIX,huaban.com
+DOMAIN-SUFFIX,jianshu.com
