@@ -84,3 +84,104 @@ DOMAIN-SUFFIX,sywgqh.com.cn  # 西南
 DOMAIN-SUFFIX,zyh.com.cn  # 中银国际
 DOMAIN-SUFFIX,cfsc.com.cn  # 财通
 DOMAIN-SUFFIX,cmbcsec.com  # 民生
+
+# 中国视频平台域名规则 (Loon DOMAIN-SUFFIX, 2026版)
+# Bilibili/腾讯/爱奇艺/优酷/芒果/快手/抖音等，必须直连 [web:6][web:97]
+
+# ===== Bilibili (哔哩哔哩) =====
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,biliapi.com
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,bilibili.tv
+
+# ===== 腾讯视频/QQ直播 =====
+DOMAIN-SUFFIX,v.qq.com
+DOMAIN-SUFFIX,ugc.bilibili.com
+DOMAIN-SUFFIX,pcvideo.qq.com
+DOMAIN-SUFFIX,video.qq.com
+DOMAIN-SUFFIX,ugc.qq.com
+
+# ===== 爱奇艺/iQIYI =====
+DOMAIN-SUFFIX,iqiyi.com
+DOMAIN-SUFFIX,iq.com
+DOMAIN-SUFFIX,cm.iqiyi.com
+
+# ===== 优酷/阿里视频 =====
+DOMAIN-SUFFIX,youku.com
+DOMAIN-SUFFIX,player.youku.com
+
+# ===== 芒果TV =====
+DOMAIN-SUFFIX,mgtv.com
+DOMAIN-SUFFIX,miguvideo.com
+
+# ===== 抖音/TikTok国内 =====
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,iesdouyin.com
+DOMAIN-SUFFIX,snssdk.com
+
+# ===== 快手/Kuaishou =====
+DOMAIN-SUFFIX,kuaishou.com
+DOMAIN-SUFFIX,kfs.io
+
+# ===== 西瓜视频/今日头条视频 =====
+DOMAIN-SUFFIX,ixigua.com
+DOMAIN-SUFFIX,ttwstatic.com
+
+# ===== 其他 (央视/网易等) =====
+DOMAIN-SUFFIX,cctv.com
+DOMAIN-SUFFIX,wasu.cn
+DOMAIN-SUFFIX,163.com  # 网易公开课/视频
+DOMAIN-SUFFIX,dytt8.net  # 资源补充
+
+# 中国国服游戏完整域名规则 (Loon DOMAIN-SUFFIX, 2026整合版)
+# 主流+二次元+库洛，避免国际服冲突 [web:108][web:125][web:126]
+
+## 米哈游 (原神/崩坏/绝区零)
+DOMAIN-SUFFIX,mhy.cn
+DOMAIN-SUFFIX,mihoyo.com
+DOMAIN-SUFFIX,osl.mihoyo.com
+DOMAIN-SUFFIX,hk4e.cn
+DOMAIN-SUFFIX,ys.mihoyo.com
+
+## 腾讯 (王者/和平精英/QQ飞车/WeGame)
+DOMAIN-SUFFIX,tencent.com
+DOMAIN-SUFFIX,tencentcdn.com
+DOMAIN-SUFFIX,txgamecdn.com
+DOMAIN-SUFFIX,wegame.com.cn
+DOMAIN-SUFFIX,egame.qq.com
+
+## 网易 (阴阳师/梦幻/哈利波特)
+DOMAIN-SUFFIX,163.com
+DOMAIN-SUFFIX,1883.cn
+DOMAIN-SUFFIX,wyd.com
+DOMAIN-SUFFIX,wdjcdn.com
+
+## Yostar (碧蓝航线/明日方舟国服)
+DOMAIN-SUFFIX,yostar.com
+DOMAIN-SUFFIX,azurlane.yo-star.com
+DOMAIN-SUFFIX,arknights.jp
+
+## Bilibili独代 (公主连结/FGO/战双/蔚蓝档案)
+DOMAIN-SUFFIX,biligame.com
+DOMAIN-SUFFIX,biligame.cn
+
+## 库洛游戏 (鸣潮/战双帕弥什国服)
+DOMAIN-SUFFIX,kurogames.com
+DOMAIN-SUFFIX,mc.kurogames.com
+DOMAIN-SUFFIX,pgr.kurogame.net
+DOMAIN-SUFFIX,kurogame.net
+
+## SHIFT UP (NIKKE女神异闻录国服)
+DOMAIN-SUFFIX,nikke.cn
+
+## 其他主流 (莉莉丝/完美/天成/叠纸)
+DOMAIN-SUFFIX,lilith.com
+DOMAIN-SUFFIX,wanmei.com
+DOMAIN-SUFFIX,stcc.com
+DOMAIN-SUFFIX,zzuame.com
+DOMAIN-SUFFIX,yys.ysr.com
+
+## 国服通用CDN
+DOMAIN-SUFFIX,hnldy.cn
+DOMAIN-SUFFIX,cdndex.com
