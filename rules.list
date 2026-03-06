@@ -251,3 +251,14 @@ DOMAIN-SUFFIX,kuaishou.com
 DOMAIN-SUFFIX,jike.app
 DOMAIN-SUFFIX,huaban.com
 DOMAIN-SUFFIX,jianshu.com
+
+# Parsec 必须直连的域名
+# 后面不要加策略，在 Loon 中通过 RULE-SET 绑定 DIRECT
+
+DOMAIN-SUFFIX,parsec.app
+DOMAIN-SUFFIX,kessel-api.parsec.app
+DOMAIN-SUFFIX,kessel-ws.parsec.app
+DOMAIN-SUFFIX,stun.parsec.app
+DOMAIN-SUFFIX,stun6.parsec.app
+DOMAIN-SUFFIX,awsstatic.com
+DOMAIN-SUFFIX,cloudfront.net
