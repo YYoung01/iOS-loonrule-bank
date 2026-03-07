@@ -1,0 +1,6 @@
+# Parsec 需要代理的域名（认证/API/下载）
+DOMAIN-SUFFIX,kessel-api.parsec.app
+DOMAIN-SUFFIX,kessel-ws.parsec.app
+DOMAIN-SUFFIX,builds.parsec.app
+DOMAIN-SUFFIX,builds.parsecgaming.com
+DOMAIN-SUFFIX,public.parsec.app
