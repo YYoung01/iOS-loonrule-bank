@@ -253,7 +253,6 @@ DOMAIN-SUFFIX,huaban.com
 DOMAIN-SUFFIX,jianshu.com
 
 # Parsec P2P/打洞直连（内网低延迟）
-DOMAIN-SUFFIX,parsec.app
 DOMAIN-SUFFIX,kessel-ws.parsec.app
 DOMAIN-SUFFIX,stun.parsec.app
 DOMAIN-SUFFIX,cloudfront.net
